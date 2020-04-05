@@ -248,3 +248,7 @@ fabric.properties
 
 # End of https://www.gitignore.io/api/flask,python,intellij
 /.idea/misc.xml
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/modules.xml
+/.idea/myfirstcloudrun.iml
+/.idea/vcs.xml
